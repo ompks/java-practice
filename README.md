@@ -1,1 +1,1 @@
-rund 0n java 25
+runs on java 25
